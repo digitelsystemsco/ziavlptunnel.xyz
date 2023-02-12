@@ -1,3 +1,11 @@
+#!/bin/bash
+#Script Variables
+HOST='162.250.121.69';
+USER='digitelp_ziavlptunnel';
+PASS='86mXdR_%6rLc+';
+DBNAME='digitelp_ziavlptunnel';
+PORT_TCP='1194';
+PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
 install_require () {
 clear
